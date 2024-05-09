@@ -76,6 +76,8 @@
 }
 .table_cell {
 }
+.connector {
+}
 .flow_shape {
 }
 .label {
@@ -206,7 +208,7 @@
   text-align:left;
 }
 .flat_button {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto', sans-serif;
+  font-family:'Roboto Medium', 'Roboto', sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:14px;
